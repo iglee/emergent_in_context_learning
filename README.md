@@ -18,7 +18,7 @@ the paper for an overview of the experimental design.
 To install the necessary requirements:
 
 ```shell
-conda create -n "eicl_venv" python=3.8
+conda create -n "eicl_venv" python=3.9
 conda activate eicl_venv
 pip install --upgrade pip
 pip install -r ./emergent_in_context_learning/requirements.txt
